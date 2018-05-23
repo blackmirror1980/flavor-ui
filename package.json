@@ -1,0 +1,23 @@
+{
+  "name": "flavor-ui",
+  "version": "0.0.1",
+  "description": "Flavor UI Description",
+  "main": "dist/flavor-ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackmirror1980/flavor-ui.git"
+  },
+  "keywords": [
+    "flavor",
+    "flavor-scss"
+  ],
+  "author": "blackmirror1980",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackmirror1980/flavor-ui/issues"
+  },
+  "homepage": "https://github.com/blackmirror1980/flavor-ui#readme"
+}
