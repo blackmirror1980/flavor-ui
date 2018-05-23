@@ -37,6 +37,6 @@
   "devDependencies": {
     "sass-lint": "^1.12.1",
     "sassdoc": "^2.5.0",
-    "sassdoc-theme-flippant": "^0.1.0"
+    "uglify-js": "^3.3.27"
   }
 }

@@ -1,5 +1,5 @@
 dest: docs
-theme: flippant
+theme: default
 description: |
   ## Flavor UI - Advanced UI Kit with fully customizable Grid System and components for Angular v2+, React, Vue
   ---
