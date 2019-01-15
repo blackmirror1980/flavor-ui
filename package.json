@@ -35,8 +35,9 @@
   "homepage": "https://github.com/blackmirror1980/flavor-ui#readme",
   "documentation": "https://blackmirror1980.github.io/flavor-ui/index.html",
   "devDependencies": {
+    "merge": "^1.2.1",
     "sass-lint": "^1.12.1",
-    "sassdoc": "^2.5.0",
-    "uglify-js": "^3.3.28"
+    "sassdoc": "^2.5.1",
+    "uglify-js": "^3.4.9"
   }
 }
