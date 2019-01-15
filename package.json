@@ -5,7 +5,7 @@
   "main": "dist/flavor-ui.js",
   "scripts": {
     "git-prepare": "changelog && echo 'CHANGELOG.md file built' && npm run readme && npm run docs",
-    "docs": "sassdoc scss && echo 'docs built' || echo 'docs building error'",
+    "docs": "sassdoc src/styles && echo 'docs built' || echo 'docs building error'",
     "readme": "pkg-2-readme package.json > README.md -t \"./pkg-2-readme.template.md\" && echo 'README.md file built' || echo 'README.md building error'",
     "test": "sass-lint -c scss-lint.yml -v -q && echo 'scss lint ok' || echo 'scss lint error'"
   },
