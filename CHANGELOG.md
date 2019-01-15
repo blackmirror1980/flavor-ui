@@ -1,3 +1,11 @@
+## [Version 0.0.2](https://github.com/:blackmirror1980/flavor-ui/releases/tag/v0.0.2) (2019-1-15)
+
+### Bug fixes
+
+- added sass styles entry point: [`7a3a01b`](https://github.com/:blackmirror1980/flavor-ui/commit/7a3a01b)
+
+[...full changes](https://github.com/:blackmirror1980/flavor-ui/compare/v0.0.1...v0.0.2)
+
 ## [Version 0.0.1](https://github.com/:blackmirror1980/flavor-ui/releases/tag/v0.0.1) (2019-1-15)
 
 ### Bug fixes
