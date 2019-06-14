@@ -4,7 +4,7 @@
 blackmirror1980
 
 ## Version
-v0.0.2
+v0.0.3
 
 ## Badges
 
@@ -43,7 +43,8 @@ npm install flavor-ui --save
 
 ## Dependencies
 
-None
+- [braces](https://ghub.io/braces): Bash-like brace expansion, implemented in JavaScript. Safer than other brace expansion libs, with complete support for the Bash 4.3 braces specification, without sacrificing speed.
+- [js-yaml](https://ghub.io/js-yaml): YAML 1.2 parser and serializer
 
 ## Dev Dependencies
 
