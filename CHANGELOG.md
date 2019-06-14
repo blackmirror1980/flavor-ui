@@ -1,3 +1,11 @@
+## [Version 0.0.3](https://github.com/:blackmirror1980/flavor-ui/releases/tag/v0.0.3) (2019-6-14)
+
+### Bug fixes
+
+- bumped dependencies: [`5896f10`](https://github.com/:blackmirror1980/flavor-ui/commit/5896f10)
+
+[...full changes](https://github.com/:blackmirror1980/flavor-ui/compare/v0.0.2...v0.0.3)
+
 ## [Version 0.0.2](https://github.com/:blackmirror1980/flavor-ui/releases/tag/v0.0.2) (2019-1-15)
 
 ### Bug fixes
